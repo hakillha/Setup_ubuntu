@@ -1,0 +1,1 @@
+We will start from [deprecated README](docs/DEPRE_README.md).
